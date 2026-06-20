@@ -10,9 +10,9 @@ Features:
 - Customer Records:* Store customer details for loyalty program
 
  Tech Stack:
-- Database:* MySQL
-- Backend:* Python
-- Queries Used:* JOINs, Subqueries, Aggregate Functions, Stored Procedures
+- Database: MySQL
+- Backend: Python
+- Queries Used: JOINs, Subqueries, Aggregate Functions, Stored Procedures
 
 Database Schema:
 Tables: menu, orders, order_items, customers, inventory
